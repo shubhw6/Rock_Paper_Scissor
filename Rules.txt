@@ -1,0 +1,7 @@
+Game will be played between two players
+player1 is user
+player2 is computer
+Rock will win when the opponent will choose scissor
+Scissor will win when apponent will choose paper
+Paper will win when apponent will choose Rock........
+
